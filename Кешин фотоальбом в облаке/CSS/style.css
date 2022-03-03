@@ -17,14 +17,20 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px;
+}
 
+H1 {
+    margin: 0%;
 }
 
 .photo {
     width:320px;
     height:240px;
     margin-bottom: 2%;
+    border-radius: 20px;
 }
+
+
 .tags {
     display: flex;
     flex-wrap: wrap;
